@@ -1,2 +1,3 @@
-# MAB
-Multi-armed Bandits
+# Causal multi-armed bandit
+
+
